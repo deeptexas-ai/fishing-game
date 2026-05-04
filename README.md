@@ -1,4 +1,4 @@
-# Fishing Game
+# Fishing Game/捕鱼游戏/钓鱼
 
 [![GitHub stars](https://img.shields.io/github/stars/deeptexas-ai/fishing-game?style=for-the-badge)](https://github.com/deeptexas-ai/fishing-game)
 [![Play Demo](https://img.shields.io/badge/Play-Demo-brightgreen?style=for-the-badge)](https://fishing-game-demo.com)
